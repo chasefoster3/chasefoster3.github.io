@@ -44,7 +44,7 @@ export default function LatestProjects() {
           </h2>
 
           <p className="mt-4 text-lg text-gray-600 max-w-2xl">
-            A selection of projects spanning statistics, machine
+            Here are three of my most recent projects spanning statistics, machine
             learning, data analysis, and experimentation.
           </p>
         </div>
