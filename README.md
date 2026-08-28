@@ -19,7 +19,6 @@ My interests include:
 - Natural Language Processing
 - Artificial Intelligence
 - Sports Analytics
-- 
 
 ## Featured Projects
 
